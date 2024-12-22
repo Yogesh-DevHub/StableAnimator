@@ -18,3 +18,4 @@ facexlib
 opencv-python-headless
 gradio
 onnxruntime-gpu
+triton @ https://huggingface.co/madbuda/triton-windows-builds/resolve/8808c895c0404858e145b261080f902e10d3b01c/triton-3.0.0-cp310-cp310-win_amd64.whl
